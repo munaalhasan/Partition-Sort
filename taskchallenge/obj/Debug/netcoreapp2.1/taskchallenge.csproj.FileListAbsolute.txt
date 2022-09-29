@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\taskchallenge\taskchallenge\bin\Debug\netcoreapp2.1\taskchallenge.deps.json
+C:\Users\DELL\source\repos\taskchallenge\taskchallenge\bin\Debug\netcoreapp2.1\taskchallenge.runtimeconfig.json
+C:\Users\DELL\source\repos\taskchallenge\taskchallenge\bin\Debug\netcoreapp2.1\taskchallenge.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\taskchallenge\taskchallenge\bin\Debug\netcoreapp2.1\taskchallenge.dll
+C:\Users\DELL\source\repos\taskchallenge\taskchallenge\bin\Debug\netcoreapp2.1\taskchallenge.pdb
+C:\Users\DELL\source\repos\taskchallenge\taskchallenge\obj\Debug\netcoreapp2.1\taskchallenge.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\taskchallenge\taskchallenge\obj\Debug\netcoreapp2.1\taskchallenge.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\taskchallenge\taskchallenge\obj\Debug\netcoreapp2.1\taskchallenge.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\taskchallenge\taskchallenge\obj\Debug\netcoreapp2.1\taskchallenge.AssemblyInfo.cs
+C:\Users\DELL\source\repos\taskchallenge\taskchallenge\obj\Debug\netcoreapp2.1\taskchallenge.dll
+C:\Users\DELL\source\repos\taskchallenge\taskchallenge\obj\Debug\netcoreapp2.1\taskchallenge.pdb
